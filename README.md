@@ -1,6 +1,6 @@
 DynaSym Educational Materials
 ================
-2025-03-22
+2025-03-23
 
 **Note that this repository is active and content will change over
 time.**
@@ -12,16 +12,25 @@ This repository hosts educational materials for the research unit
 the German Research Foundation, DFG, see also information on DynaSym
 [there](https://gepris.dfg.de/gepris/projekt/528028597?language=en).
 
-DynaSym aims at investigating the dynamics of species interactions of
-symbiotic partners. In classical (theoretical) community ecology the
-direct interactions are interpreted as static over time, however the
-strength and also the sign of such an interaction may change (Holland,
-DeAngelis, and Bronstein 2002; Becks, Gaedke, and Klauschies 2025).
+DynaSym aims at investigating the dynamics of interactions in symbiotic
+partners. In classical (theoretical) community ecology, the direct
+interactions are set as static over time; however, the strength and also
+the sign of such an interaction may change (Holland, DeAngelis, and
+Bronstein 2002; Becks, Gaedke, and Klauschies 2025).
 
-The educational materials will include topics from ecological theory,
-experimental design or statistics, e.g. how to fit functional responses
-to data to estimate the strength of species interactions (Rosenbaum and
-Rall 2018).
+Our research unit aims at understanding the dynamics of species
+interactions, especially the density dependence **functional response**,
+and the consequences for population dynamics and species coexistence. To
+do so, we want to connect experimental approaches and use the insights
+to revise existing mathematical models. To assure seamless communication
+and exchange of research within our group, we want to provide all
+necessary knowledge here, e.g., how to fit functional responses to data
+to estimate the strength of species interactions (Rosenbaum and Rall
+2018).
+
+This educational repository will cover topics from, e.g., computational
+biology, open science, population ecology, statistics, or theoretical
+ecology, just to name a few. We will update the contents later.
 
 **Stay tuned for updates!**
 
