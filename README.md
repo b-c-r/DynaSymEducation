@@ -1,6 +1,6 @@
 DynaSym Educational Materials
 ================
-2025-03-23
+2025-03-26
 
 **Note that this repository is active and content will change over
 time.**
@@ -82,8 +82,9 @@ entry-spacing="0">
 <div id="ref-BecksEtAl2025EmergentFeedbackSymbiosis" class="csl-entry">
 
 Becks, Lutz, Ursula Gaedke, and Toni Klauschies. 2025. “Emergent
-Feedback Between Symbiosis Form and Population Dynamics (Accepted).”
-*Trends in Ecology & Evolution*.
+Feedback Between Symbiosis Form and Population Dynamics.” *Trends in
+Ecology & Evolution* 0 (0): 0.
+<https://doi.org/10.1016/j.tree.2025.02.006>.
 
 </div>
 
