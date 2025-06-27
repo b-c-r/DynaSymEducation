@@ -48,6 +48,6 @@ Rall, B.C. (2025): DynaSym Educational Materials. https://github.com/b-c-r/DynaS
 
 ## Funding Information
 
--   Björn C. Rall gratefully acknowledges the funding by the **German Science Foundation (DFG) to the Research Unit DynaSym (FOR 5064)**.
+-   Björn C. Rall gratefully acknowledges the funding by the [**German Science Foundation (DFG) to the Research Unit DynaSym (FOR 5726)**](https://gepris.dfg.de/gepris/projekt/528028597).
 
 ## References

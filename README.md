@@ -1,6 +1,6 @@
 DynaSym Educational Materials
 ================
-2025-03-26
+2025-06-27
 
 **Note that this repository is active and content will change over
 time.**
@@ -71,8 +71,9 @@ Rall, B.C. (2025): DynaSym Educational Materials.
 
 ## Funding Information
 
-- Björn C. Rall gratefully acknowledges the funding by the **German
-  Science Foundation (DFG) to the Research Unit DynaSym (FOR 5064)**.
+- Björn C. Rall gratefully acknowledges the funding by the [**German
+  Science Foundation (DFG) to the Research Unit DynaSym (FOR
+  5726)**](https://gepris.dfg.de/gepris/projekt/528028597).
 
 ## References
 
